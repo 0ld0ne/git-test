@@ -1,3 +1,4 @@
 #!/bin/py
 
-print 'Hello(p) World!"
+
+print 'Hello(p) World!'
